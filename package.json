@@ -1,18 +1,19 @@
 {
   "name": "mongo-practice",
   "version": "1.0.0",
-  "description": "trying out mongoose",
+  "description": "practice, fetching mongodb using mongojs",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Jacob",
+  "author": "Jacob Goskha",
   "license": "ISC",
   "dependencies": {
     "express": "*",
     "ejs": "*",
     "mongodb": "*",
     "mongoose": "*",
+    "mongojs":"*",
     "body-parser": "*",
     "express-session": "*",
     "cookie-parser": "*"
